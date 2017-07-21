@@ -35,7 +35,7 @@ o que geralmente se traduz em discussões ou retrabalhos dispendiosos
 
 ### To-Dos
  - Sempre melhorar essa po*$a :godmode:
- - Ver o DoD :boot:
+ - [Ver o DoD](https://github.com/certsys/tatoo-na-testa/blob/master/DoD.md) :boot:
  - Ver o nosso lindo Manifesto :panda_face:
 
 License
