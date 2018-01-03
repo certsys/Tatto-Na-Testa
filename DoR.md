@@ -17,7 +17,7 @@ Um requisito/user story está “Ready” quando:
  * Testabilidade comprovada através de critérios de aceite.
  * O nível de detalhamento e a clareza de uma user story/requisito é atingido quando a equipe diz: Ah sim, Nós entendemos!
 
-![N|Solid](https://i.ytimg.com/vi/xz3PbpPR6DY/hqdefault.jpg)
+![N|Solid](./images/dor_image.jpeg)
 
 #### Por que queremos um DoR? E por que você precisa saber?
 O valor para criar um DoR é de 

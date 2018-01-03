@@ -16,7 +16,7 @@ Afinal, um recurso ou Item do PB está feito ou não está feito. O DoD é um ar
 clareza à declaração "Feature's done". Usando o DoD como referência para essa conversa, um membro da equipe 
 pode efetivamente atualizar outros membros da equipe e o PO.
 
-[![N|Solid](https://hoangluongsjsu.files.wordpress.com/2014/10/definition-of-done-in-agile-project-methodology-dog-chef-steak-illustration-sharepoint-development-magenic-custom-software-development.png)]
+[![N|Solid](./images/dod_image.png)]
 
 #### Por que queremos um DoD? E por que você precisa saber?
 A definição de feito é ortogonal aos critérios de aceitação do usuário (aceitação funcional) para um recurso. 
