@@ -3,7 +3,7 @@
 > for beautiful lips, speak only words of kindness; and for poise, 
 > walk with the knowledge that you are never alone.
 
-#### Overivew
+#### Overview
 O DoD é uma lista simples de atividades (códificar, comentários, teste unitários, teste de integração, etc.) 
 que adicionam valor ao produto. Concentrar-se em etapas de valor agregado permite que a equipe se concentre no que 
 deve ser concluído para criar software, ao mesmo tempo em que elimina atividades desperdiçadas que só 
@@ -16,7 +16,7 @@ Afinal, um recurso ou Item do PB está feito ou não está feito. O DoD é um ar
 clareza à declaração "Feature's done". Usando o DoD como referência para essa conversa, um membro da equipe 
 pode efetivamente atualizar outros membros da equipe e o PO.
 
-[![N|Solid](./images/dod_image.png)]
+[![N|Solid](../images/dod_image.png)]
 
 #### Por que queremos um DoD? E por que você precisa saber?
 A definição de feito é ortogonal aos critérios de aceitação do usuário (aceitação funcional) para um recurso. 
@@ -35,8 +35,8 @@ completada em cada nível (recurso, sprint, lançamento).
 
 ### To-Dos
  - Sempre melhorar essa po*$a :godmode:
- - [Ver o DoR](https://github.com/certsys/tatoo-na-testa/blob/master/DoR.md) :anger:
- - Ver o nosso lindo Manifesto :panda_face:
+ - [Ver o DoR](DoR.md) :anger:
+ - Ver o nosso [lindo Manifesto](TEAM_MANIFESTO.md) :panda_face:
 
 License
 ----

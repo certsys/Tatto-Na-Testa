@@ -4,7 +4,7 @@
 > That is why we often take for granted the beauty of this world: the flowers, the trees, the birds, the clouds 
 > even those we love. Because we see things so often, we see them less and less.
 
-#### Overivew
+#### Overview
 Numa definição de ready, o Product Owner quanto provedor de informação, deve receber dos membros do time o aceite sobre os 
 requisitos.
 
@@ -17,7 +17,7 @@ Um requisito/user story está “Ready” quando:
  * Testabilidade comprovada através de critérios de aceite.
  * O nível de detalhamento e a clareza de uma user story/requisito é atingido quando a equipe diz: Ah sim, Nós entendemos!
 
-![N|Solid](./images/dor_image.jpeg)
+![N|Solid](../images/dor_image.jpeg)
 
 #### Por que queremos um DoR? E por que você precisa saber?
 O valor para criar um DoR é de 
@@ -35,8 +35,8 @@ o que geralmente se traduz em discussões ou retrabalhos dispendiosos
 
 ### To-Dos
  - Sempre melhorar essa po*$a :godmode:
- - [Ver o DoD](https://github.com/certsys/tatoo-na-testa/blob/master/DoD.md) :boot:
- - Ver o nosso lindo Manifesto :panda_face:
+ - [Ver o DoD](DoD.md) :boot:
+ - Ver o nosso [lindo Manifesto](TEAM_MANIFESTO.md) :panda_face:
 
 License
 ----
