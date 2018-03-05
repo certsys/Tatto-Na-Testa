@@ -1,4 +1,4 @@
-![Logo do Projeto](./images/logo.sample.png)
+![Logo do Projeto](../images/logo.sample.png)
 
 # Nome do Projeto
 > Informações adicionais ou linha de marcação
