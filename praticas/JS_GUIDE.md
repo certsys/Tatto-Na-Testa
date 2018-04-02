@@ -222,6 +222,11 @@
 
 * Use `PascalCase '' camelCase` para nomes de arquivos e nomes de diretórios. Use `PascalCase` apenas para componentes.
 
+* Tente ao máximo nomear os arquivos, componentes e diretórios em **INGLÊS**.
+
+    _Por quê?_
+    > Isso mantém um padrão entre devs. Caso a gente precise mostrar nossos códigos pra uma pessoa do Sudão do Sul, não vamos ter trabalho de explicar o que `TabelaComPesquisa` significa. Só cuidado com plurais pra não apanhar do Hansen em público.
+
 * `CheckBox/index.js` deve ter o componente` CheckBox`, como poderia `CheckBox.js`, mas **não**` CheckBox/CheckBox.js` ou `checkbox/CheckBox.js` que são redundantes.
 
 * Idealmente, o nome do diretório deve corresponder ao nome da exportação padrão de `index.js`.
